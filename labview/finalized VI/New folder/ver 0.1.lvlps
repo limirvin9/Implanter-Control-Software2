@@ -9,3 +9,11 @@ Cache_Path[Path] Line0002 = "{BBFC5AFB-B4CF-4AAC-B68A-838217DB2FEC}.txt"
 Cache_Path[Path] Line0001 = "/C/Users/CIBA-Nanolab/AppData/Local/Temp/AB_Cache_"
 Cache_Path[Path] Line0002 = "{B525D055-51E7-4485-A568-FE0694C30712}.txt"
 
+[AB_Cache_{CF959E0B-B4D8-466C-AD92-0BDB08315A2C}]
+Cache_Path[Path] Line0001 = "/C/Users/CIBA-Nanolab/AppData/Local/Temp/AB_Cache_"
+Cache_Path[Path] Line0002 = "{CF959E0B-B4D8-466C-AD92-0BDB08315A2C}.txt"
+
+[AB_Cache_{529F1335-0909-4C42-85FD-BDF5DC1207DF}]
+Cache_Path[Path] Line0001 = "/C/Users/CIBA-Nanolab/AppData/Local/Temp/AB_Cache_"
+Cache_Path[Path] Line0002 = "{529F1335-0909-4C42-85FD-BDF5DC1207DF}.txt"
+
