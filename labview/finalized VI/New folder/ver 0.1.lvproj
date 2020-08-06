@@ -19,7 +19,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="currentHostPC.vi" Type="VI" URL="../../../../../Implanter-Control-Software/labview/finalized VI/New folder/currentHostPC.vi"/>
+		<Item Name="currentHostPC.vi" Type="VI" URL="../currentHostPC.vi"/>
 		<Item Name="Host Lib.lvlib" Type="Library" URL="../Host Lib.lvlib"/>
 		<Item Name="PC HOST.vi" Type="VI" URL="../PC HOST.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
@@ -1578,7 +1578,7 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="cRIOLibrary.lvlib" Type="Library" URL="../cRIOLibrary.lvlib"/>
-		<Item Name="currentCOntrolONly.vi" Type="VI" URL="../../../../../Implanter-Control-Software/labview/finalized VI/New folder/currentCOntrolONly.vi"/>
+		<Item Name="currentCOntrolONly.vi" Type="VI" URL="../currentCOntrolONly.vi"/>
 		<Item Name="Realtime_interaction VI.vi" Type="VI" URL="../Realtime_interaction VI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
